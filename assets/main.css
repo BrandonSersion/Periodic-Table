@@ -1,0 +1,43 @@
+table{
+  display: table;
+  border-collapse: separate;
+  border-spacing: .2em;
+}
+tr{
+
+}
+td{
+  height: 75px;
+  width: 75px;
+  border: 1px solid black;
+  display: table-cell;
+  vertical-align: inherit;
+}
+td.hide{
+  visibility: hidden;
+  border:none;
+}
+
+div.number{
+
+}
+div.abbreviation{
+  text-align:center;
+  margin:1px;
+}
+div.element{
+  text-align:center;
+  font-size:11px;
+  margin:1px;
+}
+div.weight{
+  text-align:center;
+  font-size:11px;
+  margin:1px;
+}
+
+/*
+center image
+block item
+margin auto
+*/
